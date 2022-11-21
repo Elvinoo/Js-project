@@ -1,3 +1,4 @@
+
 console.clear()
 const sentence = ['sense.', 'make', 'all', 'will', 'This'];
 console.log(sentence);
